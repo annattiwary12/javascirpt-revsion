@@ -61,3 +61,9 @@ Simple CSS file to style the HTML elements — used in conjunction with `index.h
    ```bash
    git clone https://github.com/yourusername/js-revision
    cd js-revision
+
+   
+---
+
+Let me know if you’d like the README in Hindi or want to include screenshots, API links, or terminal instructions. I can also push this format directly into a Markdown file for you.
+
